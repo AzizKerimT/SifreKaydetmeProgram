@@ -1,0 +1,8 @@
+programı çalıştıra bilmek için dist klasöründeki exe dosyasını açmamız yeterlidir.
+
+
+NOT!!  :  Uygulamaya gire bilmek için gerekli şifre 123 ama şifrenizi istediğiniz gibi yapa bilmek için 
+sifre_yonetici.py adlı python dosyasını not defteri  ile açıp en üstte bulunan ;
+# Giriş şifresi
+APP_PASSWORD = "123"
+123 yazan yere istediğiniz şifreyi yaza bilirsiniz
